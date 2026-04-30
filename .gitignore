@@ -3,5 +3,8 @@ node_modules
 build
 dist
 .tanstack
-.vscode
 .npmrc
+
+
+
+.gitignore
